@@ -6,3 +6,5 @@ module.exports = {
   },
   plugins: [],
 }
+
+Add input.css with Tailwind directives
